@@ -1,5 +1,5 @@
 [programs.localnet]
-dabit_solana_app = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+dabit_solana_app = "2tvbTZLz9EaXRM9Xn12X2DWbh5QCUqFvBZ5oCZGAS8qf"
 
 [registry]
 url = "https://anchor.projectserum.com"
